@@ -1,0 +1,58 @@
+{
+  "ok": true,
+  "result": [
+    {
+      "update_id": 649732994,
+      "message": {
+        "message_id": 1,
+        "from": {
+          "id": 352443509,
+          "is_bot": false,
+          "first_name": "Andrew",
+          "last_name": "Stepaniuk",
+          "username": "qfrost",
+          "language_code": "ru-UA"
+        },
+        "chat": {
+          "id": 352443509,
+          "first_name": "Andrew",
+          "last_name": "Stepaniuk",
+          "username": "qfrost",
+          "type": "private"
+        },
+        "date": 1526989538,
+        "text": "/start",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 649732995,
+      "message": {
+        "message_id": 4,
+        "from": {
+          "id": 352443509,
+          "is_bot": false,
+          "first_name": "Andrew",
+          "last_name": "Stepaniuk",
+          "username": "qfrost",
+          "language_code": "ru-UA"
+        },
+        "chat": {
+          "id": 352443509,
+          "first_name": "Andrew",
+          "last_name": "Stepaniuk",
+          "username": "qfrost",
+          "type": "private"
+        },
+        "date": 1526992476,
+        "text": "привет"
+      }
+    }
+  ]
+}
