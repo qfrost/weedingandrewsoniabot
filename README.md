@@ -1,2 +1,0 @@
-# weedingandrewsoniabot
-weedingandrewsoniabot
